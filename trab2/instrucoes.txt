@@ -1,7 +1,7 @@
 Instruções para o Trabalho
 --------------------------
 
-1 - criar um repositório no seu github com o nome trabalho1-labso
+1 - criar um repositório no seu github com o nome trab2-labso
 2 - clonar este repositório na sua máquina local
 3 - clonar o repositório https://github.com/salgado/labso.git 
 4 - copiar todo o diretorio trabalho para a sua pasta trab2
