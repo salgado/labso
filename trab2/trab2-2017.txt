@@ -8,7 +8,7 @@ Professor: Alex Salgado
 Trabalho 2 - Aluno:(Seunome e sobrenome)
 [1] Listar conteúdo da pasta atual
 [2] Ver conteúdo de um arquivo
-[3] Testar se uma url está no ar
+[3] Testar se uma maquina ip/nome está no ar
 [0] Sair
 Escolha uma opção: 
 
